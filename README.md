@@ -1,6 +1,4 @@
-# -Tom-Jerry-chasing-cheese-Ai-Studio
 
-Jerry Reinforcement Learning project comparing Q-Learning and DQN
 # 🐭 Tom & Jerry: The Great Cheese Chase
 
 ### Reinforcement Learning — Q-Learning vs Deep Q-Network (DQN)
