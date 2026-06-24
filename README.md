@@ -58,7 +58,7 @@ The game runs directly in the browser — no install needed.
   |██████████████████|
 ```
 ---
-## Algorithms
+## Highlights
 1. Q-Learning
    -1. Q-Learning
    -Bellman update:
@@ -68,17 +68,17 @@ The game runs directly in the browser — no install needed.
    
 2. Deep Q-Network (DQN)
    - Network
-   -State encoding
-   -Experience Replay
-   -Target Network 
-   -Adam optimizer
+   - State encoding
+   - Experience Replay
+   - Target Network 
+   - Adam optimizer
 
 3. Tom's Training
-   -Tom's AIBFS pathfinding
-   -Speed control
+   - Tom's AIBFS pathfinding
+   - Speed control
 ---
 
-Level Progression
+##Level Progression
 
 | Level | Tom | Delay | Cheese target |
 |--------|---------|---------|---------|
