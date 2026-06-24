@@ -4,7 +4,8 @@
 ### Reinforcement Learning — Q-Learning vs Deep Q-Network (DQN)
 **AI Studio Final Project · B144**
 
-Jerry (RL agent) navigates a 16×18 grid house, collects 10 cheese pieces, and evades Tom the cat (BFS pathfinder). Two algorithms compete: classic Q-Learning vs neural-network DQN. A fully playable browser game with 7 progressive difficulty levels is also included.
+Jerry the mouse (RL agent) navigates a 16×18 grid house, collects 10 cheese pieces, and evades Tom the cat (BFS pathfinder).
+Two algorithms compete: classic Q-Learning vs neural-network DQN. A fully playable fun game with 7 progressive difficulty levels is also included.
 
 ---
 
