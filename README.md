@@ -31,7 +31,7 @@ The game runs directly in the browser — no install needed.
 
 ---
 
-## The House
+## The Game Design
 
 ```
  J = 🐭Jerry start (1,1)
